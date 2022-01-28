@@ -1,4 +1,5 @@
 require_relative "boot"
+require_relative 'log_formatter.rb'
 
 require "rails/all"
 
@@ -18,5 +19,8 @@ module RailsSample
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+
+    config.logger = Logger.new('logger.log', 'daily')
+    config.logger.formatter = Logger::CustomFormatter.new
   end
 end

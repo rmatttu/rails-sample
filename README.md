@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## References
+
+* https://qiita.com/tai_gt/items/036b9341f9fc7964522a
