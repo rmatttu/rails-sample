@@ -25,9 +25,13 @@ Things you may want to cover:
 
 ## References
 
-クラス
+Ruby基礎
 
 * [【まとめ】インスタンス変数、クラス変数、クラスインスタンス変数 - Qiita](https://qiita.com/mogulla3/items/cd4d6e188c34c6819709)
+* [アクセスメソッド - クラスの概念 - Ruby入門](https://www.javadrive.jp/ruby/class/index6.html)
+* [Ruby オブジェクトのクラスを調べるには？ - kinopyo blog](https://kinopyo.com/ja/blog/to-find-out-ruby-object-class)
+* [【Ruby】is\_a? と instance\_of? の違い - Qiita](https://qiita.com/akihiro_kubota/items/3ca17fe7f7bd810e4cf9)
+* [演算子式 (Ruby 2.2.0)](https://docs.ruby-lang.org/ja/2.2.0/doc/spec=2foperator.html)
 
 datetime
 
