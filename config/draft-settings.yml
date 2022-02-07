@@ -1,0 +1,11 @@
+development:
+  some_web_service:
+    api_key: "api_key_for_development"
+
+test:
+  some_web_service:
+    api_key: "api_key_for_development"
+
+production:
+  some_web_service:
+    api_key: "api_key_for_production"
